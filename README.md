@@ -1,9 +1,7 @@
 # PUBG COMPLETE HACK
 Gameloop PC Pubg Mobile 0.19.0 ESP &amp; AIMBOT Hack using using BypaPH, bypasses process read/write restrictions.
 `
-# Tools:
-- C#
-- VS2019
+
 
 Features:
 - Player ESP (2d box, 3d box,skeleton, ignore teammate, identify bot)
@@ -17,7 +15,7 @@ Features:
 - Enemy Weapon
 
 # Contact 
-- Discord 
+- Discord-(error_434#6498)
 
 
 # NOTE
