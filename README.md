@@ -25,7 +25,7 @@ Gameloop PC Pubg Mobile 0.19.0 ESP &amp; AIMBOT Hack using using BypaPH, bypasse
 
 ## Requirements
 
-* Visual Studio 2015 or Up.
+* Visual Studio 2015 Or Up(Any Version).
 * Dirext X SDK(2010).
 * BlueStack or LDPlayer Emulator.
 * PUBG Mobile 0.18 Or Above
