@@ -32,7 +32,7 @@ Gameloop PC Pubg Mobile 0.19.0 ESP &amp; AIMBOT Hack using using BypaPH, bypasse
 
 ## How To Use
 
-*  Open The Source Project .
+* Clone The Source Project .
 
 * In Visual Studio Go to Project -> Properties -> VC++ Directories -> Include Directories And Put The Path Of Directx. 
     For Example My Path Is C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include
